@@ -1,0 +1,11 @@
+base_local: en
+fallback_strategy: base_locale
+
+input_directory: lib/i18n
+input_file_pattern: .i18n.json
+output_directory: lib/i18n
+
+gpt:
+  model: gpt-4o-mini
+  description: |
+    "Forkfable is a social media app that allows users to rate food and share their experiences with others. The app is designed to help users discover new restaurants and dishes, as well as connect with other food enthusiasts. Users can rate dishes on a scale of 1 to 5 stars, and leave reviews and comments for other users to read. The app also features a news feed where users can see the latest reviews and ratings from their friends and other users. Forkfable is the perfect app for foodies who love to share their dining experiences with others."
