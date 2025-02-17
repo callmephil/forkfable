@@ -1,3 +1,6 @@
 {
-  "cSpell.words": ["forkfable"]
+  "cSpell.words": [
+    "forkfable"
+  ],
+  "dart.flutterSdkPath": ".fvm/versions/3.29.0"
 }
